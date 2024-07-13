@@ -1,0 +1,12 @@
+{
+  "name": "openh264",
+  "version": "2.4.1",
+  "description": "OpenH264 is a codec library which supports H.264 encoding and decoding",
+  "homepage": "https://github.com/cisco/openh264",
+  "dependencies": [
+    {
+      "name": "vcpkg-tool-meson",
+      "host": true
+    }
+  ]
+}
